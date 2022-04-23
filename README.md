@@ -10,7 +10,7 @@
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Gameye98)  
 
-[![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
+[![BlackHole Security](https://telegra.ph/file/d827f426d41cfb3575dba.jpg)](https://github.com/BlackHoleSecurity)
 
 # Lazymux
 Lazymux is a tool installer that is specially made for termux user which provides a lot of tool mainly used tools in termux and its easy to use, Lazymux install any of the given tools provided by it from itself with just one click, and its often get updated.
@@ -44,3 +44,7 @@ git clone https://github.com/Gameye98/Lazymux
 cd Lazymux
 python lazymux.py
 ```
+
+# CONTACT US ON TELEGRAM 
+
+[PROXY VIBES](https://t.me/proxyvibe)

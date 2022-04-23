@@ -13,7 +13,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 
 #### Installation and Using Lazymux
 ```
-git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/frankenstein-666/ALL-IN-ONE
 ```
 ```
 cd Lazymux
@@ -23,7 +23,7 @@ python lazymux.py
 ```
 
 ### Contact Me
-Line     : dtl.lily  
-Telegram : @dtlily  
-Facebook : cgi.izo  
-Instagram: @dtlily  
+[Telegram][https://t.me/proxyvibe]
+
+### OUR NETWORK
+[TOXIC PROXY](https://telegra.ph/file/22f3a24a5ee6b4323f824.jpg)

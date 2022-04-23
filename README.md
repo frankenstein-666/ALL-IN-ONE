@@ -23,7 +23,7 @@ python lazymux.py
 ```
 
 ### Contact Me
-[Telegram][https://t.me/proxyvibe]
+[Telegram](https://t.me/proxyvibe)
 
 ### OUR NETWORK
 [TOXIC PROXY](https://telegra.ph/file/22f3a24a5ee6b4323f824.jpg)
